@@ -2,7 +2,7 @@
    <?php
     $artikels = array(
         array('titel' => 'Rusland maakt trajecten Belgische F-16s in Syrië openbaar',
-              'datum' => '20 oktober 2016',
+              'datum' => '18 mei 2017',
               'inhoud' => 'Volgens het Russische ministerie van Defensie bewijzen radarbeelden dat Belgische F-16s wel degelijk een bombardement hebben uitgevoerd op een dorp nabij het noord-Syrische Aleppo. Rusland zal de vliegroutes van de gevechtstoestellen op het ogenblik van het dodelijk bombardement openbaar maken. Volgens het ministerie zijn de twee Belgische F-16s van op een luchthaven in Jordanië opgestegen en zijn twee keer in de lucht door een Amerikaans tankvliegtuig bijgetankt. <br />
 
     De woordvoerder van het Russische ministerie van Defensie, Igor Konasjenkov, zegt dat Russische en Syrische radardata bevestigen dat Belgische toestellen Hassadjek nabij Aleppo hebben gebombardeerd. <br />
@@ -14,7 +14,7 @@
               'afbeeldingBeschrijving' => 'Uitgeruste F16 piloot in Jordanië'),
         
         array('titel' => 'Republikeinen ontzet na debat: Trump had net zo goed in eigen kist kunnen gaan liggen',
-              'datum' => '20 oktober 2016',
+              'datum' => '14 februari 2017',
               'inhoud' => 'Niet alleen Democraten, maar ook Republikeinen reageren ontzet op de uitspraak van Donald Trump vannacht dat hij niet zeker weet of de verkiezingen wel eerlijk verlopen. Hij had net zo goed met een hamer en spijkers in zijn eigen grafkist kunnen gaan liggen en hem zelf dichtslaan, zei Nicolle Wallace, een adviseur van senator John McCain tijdens diens verkiezingscampagne in 2008, op NBC. <br />
 
     Trump klaagt al maanden dat het systeem hem tegenwerkt, maar had nog niet eerder zo expliciet gezegd dat hij zich mogelijk niet zal neerleggen bij een eventueel verlies. Daar zal ik dan naar kijken. Ik laat jullie nog in spanning, zei hij vannacht tijdens het derde presidentiële debat. Zijn tegenstrever Clinton noemde zijn uitspraak angstwekkend. <br />
@@ -28,7 +28,7 @@
               'afbeeldingBeschrijving' => 'Donald Trump in debat'),
         
         array('titel' => 'Ambulance doet er drie keer langer over om bij ongeval te komen: Mensen gaan niet meer uit de weg',
-              'datum' => '19 oktober 2016',
+              'datum' => '19 oktober 2017',
               'inhoud' => 'Bij een ongeval gisteren op de Antwerpse ring deed een ambulance er drie keer zo lang als gewoonlijk over om bij het slachtoffer te komen. Alsmaar vaker weigeren mensen uit de weg te gaan voor ambulances. Dat schrijft Het Laatste Nieuws. <br />
 
     Er ontstond grote chaos op de Antwerpse ring gisteren, toen een 22-jarige vrouw met haar wagen uit de bocht ging op de oprit in Borgerhout. De brandweer moest het dak van de wagen knippen om de twintiger te bevrijden. <br />
