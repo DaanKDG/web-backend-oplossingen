@@ -15,7 +15,7 @@ En denk er aan, blijven volharden! Het groene vinkje is in zicht.
 Neem deze tekst over in je eigen document en schrijf onder deze tekst wat hierboven werd gevraagd.
 
 ## Waarom ik voor MT heb gekozen
-Ik wou iets doen met websites en design. Oorspronkelijk niet zozeer het programmeren maar echt ontwerpen. Maar het programmeren is noodzakelijk en ook wel interessant dus daarom blijf ik ook bij MT. 
+Ik had toen ik vrij jong was al interesse in hoe een website en een computer in mekaar zat en hoe je het zelf kon opbouwen. Hierdoor ben ik mij wat gaan verdiepen en heb ik uiteindelijk gekozen voor de MT-richting. 
 
 ## Feedback voor de cursus web backend
 Werken met GitHub vond ik in het begin wat omslagtig, maar achteraf gezien is het een handig platform en een skill voor de toekomst.
